@@ -111,7 +111,7 @@ export class Form extends Component {
           redirect: 'follow'
         };
         
-        var res= await fetch("http://localhost:3000/editUser", requestOptions)
+        var res= await fetch("https://education4all.herokuapp.com/editUser", requestOptions)
         res=await res.json()
         console.log(res,"gotcha")
 
