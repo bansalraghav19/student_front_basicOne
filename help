@@ -1,0 +1,11 @@
+1. install yarn https://yarnpkg.com/en/docs/install.
+2. yarn global add create-react-app
+3. create-react-app student
+4. yarn start
+5. yarn add redux
+6. yarn add react-redux
+7. yarn add react-router-dom
+8. npm insatll @u-wave/react-vimeo
+9. npm install @material-ui/core
+10. npm install @material-ui/icons
+11. npm install @mui-treasury/components

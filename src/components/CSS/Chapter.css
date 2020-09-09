@@ -1,0 +1,151 @@
+
+.card-container {
+      float:left;
+      width:30%;
+      height:100%;
+      margin-left: 3%;
+      overflow-y:scroll;
+}
+  
+.card-container-big{
+      float:left;
+      width:65%;
+      margin-left: 2%;
+      height: 100%;
+      overflow-y:scroll;
+}
+   
+.mat-card {
+      background: #fff;
+      width:35%;
+      height: 35%;
+      margin-left:9%;
+      margin-top:4%;
+      margin-bottom: 4%;
+      float:left;
+      padding: 20px !important;
+      border-radius: 8px !important;
+      font-family: Roboto, Helvetica Neue, sans-serif;
+      font-size: 70%;
+      text-align: center;
+      cursor: pointer;
+}
+
+.mat-card:hover{
+      background:rgb(178, 235, 242);
+}
+ 
+.box-shadow {
+      box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.06), 0 1px 18px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
+.card-img-style {
+      height: 60%;
+      border-radius: 8px;
+      width:100%;
+}
+  
+.card-img-style img{
+      width:100%;
+      height: 100%;
+      border-radius: 8px;
+}
+
+.color-green {
+      color: #03a826;
+      margin-left: 4%;
+      margin-top: 4%; 
+      display: flex; 
+}
+
+.list-container {
+      margin-left: 4%;
+      margin-top: 4%;
+      display: flex;
+      color: black;
+}
+
+.list-style {
+      list-style-type: none;
+      padding-right: 15px;
+}
+
+.title-text {
+      margin-top: 4%;
+      color: #333;
+      text-shadow: 1px 1px 1px #d6d6d6;
+      /* margin-bottom: 14px; */
+}
+
+.medium-18 {
+      font-family: medium;
+      font-size: 18px;
+}
+
+.line-height {
+      line-height: normal;
+}
+
+
+/**************** topic-card --css *****************************/
+
+
+.mat-card-s {
+      background: #fff;
+      width:84%;
+      height: 22%;
+      margin-left:3%;
+      margin-top: 7%;
+      margin-bottom: 5%;
+      float:left;
+      padding: 15px;
+      border-radius: 8px !important;
+      font-family: Roboto, Helvetica Neue, sans-serif;
+      overflow: hidden;
+      cursor: pointer;
+}
+
+.card-img-style-s {
+      border-radius: 8px;
+      margin-right:10px;
+      float:left;
+      width:40%;
+      height: 100%;
+}
+
+.card-img-style-s img{
+      width:100%;
+      height: 70%;
+      border-radius: 8px;
+}
+
+.title-text{
+     text-align: center;
+}
+
+.img-box-s{
+      flex-direction: column; 
+      box-sizing: border-box; 
+      float :left;
+      margin-top:3%;
+      margin-left: 5%;
+      width:46%;
+      font-size: 80%;
+}
+
+.img-box-s li{
+      margin-bottom: 3%;
+      font-weight: 300;
+}
+
+  
+.mat-card-s:hover{
+      background:rgb(178, 235, 242);
+}
+
+
+.box-shadow {
+      box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.06), 0 1px 18px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
+  
